@@ -4,9 +4,11 @@
 
 I'm an artist, designer, and developer from India, passionate about crafting digital experiences. I believe in helping people with my abilities and knowledge.
 
-- [imprs.vercel.app](https://imprs.vercel.app) is my site, where I blog, upload and share whatever side projects I've been working on.
-- Explore my [blog](https://imprs.vercel.app/blog) where I share insights and learnings.
-- Check out my [VSCode Configuration](https://github.com/itsprs/vscode-settings) for development optimization.
+I'm currently focused on:
+
+- 🌐 Enhancing <a href="https://imprs.vercel.app">imprs.vercel.app</a> my site, where I blog, upload and share whatever side projects I've been working on..
+- 📝 Sharing insights and learnings on <a href="https://imprs.vercel.app/blog">my blog ↗</a>.
+- 🚀 Developing new and exciting side <a href="https://imprs.vercel.app/projects">projects ↗</a>.
 
 <details>
 <summary><strong>👣 Journey</strong></summary>
@@ -20,17 +22,13 @@ Continue reading more about my journey. [Read More ↗](https://imprs.vercel.app
 </details>
 
 <details>
-<summary><strong>🌈 Interests</strong></summary>
+<summary><strong>🌱 Learning</strong></summary>
 <p style="padding-top: 12px;">
-Here are some of my interests and hobbies:
+I'm always learning and exploring new technologies and tools. Here are some of the skills I'm currently focused on:
 <ul>
-<li>🖌️ Design</li>
-<li>🎨 Art</li>
-<li>🎮 Gaming</li>
-<li>📚 Reading</li>
-<li>🎥 Movies</li>
-<li>🎵 Music</li>
-<li>🏸 Badminton</li>
+<li>🔍 Exploring new technologies and frameworks.</li>
+<li>🎨 Learning and improving my artistic design skills and techniques.</li>
+<li>⚗️ Experimenting with different styles and technology.</li>
 </ul>
 </p>
 </details>
@@ -41,12 +39,14 @@ Here are some of my interests and hobbies:
 I offer a diverse range of services to meet a variety of needs, including:
 <ul>
 <li>🎨 Commission Artwork</li>
-<li>📐 Graphic Design</li>
-<li>🖌️ UI/UX Design</li>
 <li>💻 Web Development</li>
 <li>📱 App Development</li>
+<li>🖌️ UI/UX Design</li>
+<li>📐 Graphic Design</li>
 <li>📸 Photo Editing</li>
 <li>🎥 Video Editing</li>
+<li>📚 Tutorials & Workshops</li>
+<li>🔍 Consulting & Collaboration</li>
 </ul>
 </p>
 </details>
@@ -61,6 +61,7 @@ I offer a diverse range of services to meet a variety of needs, including:
 - **Database:** ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat-square&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-000000?style=flat-square&logo=firebase&logoColor=white) ![Appwrite](https://img.shields.io/badge/-Appwrite-000000?style=flat-square&logo=appwrite&logoColor=white)
 - **Design:** ![Figma](https://img.shields.io/badge/-Figma-000000?style=flat-square&logo=figma&logoColor=white) ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-000000?style=flat-square&logo=adobe-xd&logoColor=white) ![Photoshop](https://img.shields.io/badge/-Photoshop-000000?style=flat-square&logo=adobe-photoshop&logoColor=white) ![Illustrator](https://img.shields.io/badge/-Illustrator-000000?style=flat-square&logo=adobe-illustrator&logoColor=white) ![After Effects](https://img.shields.io/badge/-After%20Effects-000000?style=flat-square&logo=adobe-after-effects&logoColor=white) ![Premiere Pro](https://img.shields.io/badge/-Premiere%20Pro-000000?style=flat-square&logo=adobe-premiere-pro&logoColor=white) ![Lightroom](https://img.shields.io/badge/-Lightroom-000000?style=flat-square&logo=adobe-lightroom&logoColor=white) ![GIMP](https://img.shields.io/badge/-GIMP-000000?style=flat-square&logo=gimp&logoColor=white) ![Inkscape](https://img.shields.io/badge/-Inkscape-000000?style=flat-square&logo=inkscape&logoColor=white)
 - **Tools:** ![Git](https://img.shields.io/badge/-Git-000000?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat-square&logo=github&logoColor=white) ![VSCode](https://img.shields.io/badge/-VSCode-000000?style=flat-square&logo=visual-studio-code&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-000000?style=flat-square&logo=postman&logoColor=white) ![Notion](https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=notion&logoColor=white) ![Discord](https://img.shields.io/badge/-Discord-000000?style=flat-square&logo=discord&logoColor=white)
+- **Custom Artwork:** `Digital Painting`, `Sketching`, `Illustration`, `Logo Design`, `Poster Design` `Concept Art` `Motion Graphics` `Lighting` `VFX` `Video Editing` `Photo Editing` `Color Grading` `Digital Art` `Traditional Art` and more.
 
 ## 🎁 Projects
 
@@ -113,6 +114,8 @@ If you like what I do, consider supporting me on [Patreon](https://patreon.com/i
 [![Patreon Badge](https://img.shields.io/badge/-imprs-blue?style=social&logo=Patreon&link=https://patreon.com/imprs)](https://patreon.com/imprs)
 
 ## ❤️ Special Thanks
+
+_“The only way to do great work is to love what you do.” – Steve Jobs_
 
 I want to extend my heartfelt thanks to all the developers and creators whose work and contributions have inspired me on my coding journey. Your dedication and passion for the craft continue to motivate me every day. Thank you for being a guiding light in the world of technology and creativity.
 
