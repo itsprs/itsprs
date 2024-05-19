@@ -35,7 +35,7 @@ Here are some of my interests and hobbies:
 </p>
 </details>
 
-<details>
+<details style="margin-bottom: 12px;">
 <summary><strong>💼 Services</strong></summary>
 <p style="padding-top: 12px;">
 I offer a diverse range of services to meet a variety of needs, including:
@@ -50,8 +50,6 @@ I offer a diverse range of services to meet a variety of needs, including:
 </ul>
 </p>
 </details>
-
-<br>
 
 [![imprs.vercel.app](https://img.shields.io/badge/-IMPRS.VERCEL.APP-000000?style=for-the-badge&logo=react&logoColor=white)](https://imprs.vercel.app/)
 
