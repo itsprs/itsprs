@@ -10,10 +10,10 @@ I'm an artist, designer, and developer from India, passionate about crafting dig
 
 <details>
 <summary><strong>👣 Journey</strong></summary>
-<p style="padding-top: 12px;">
+<p style="padding-top: 15px;">
 From a young age, inspired by my mother, I found solace in drawing and painting. My first drawing in the school magazine ignited a passion that led to numerous competitions and continual skill improvement. Alongside art, my curiosity for computers blossomed, starting with Python and evolving into creating clean, intuitive user interfaces influenced by industry giants like Google. My journey expanded to photo and video editing, blending artistic sensibilities with technical skills. Sports also play a significant role, instilling discipline and teamwork that enrich my approach to programming and design.
 
-Continue reading more about my journey. [Read More](https://imprs.vercel.app/about)
+Continue reading more about my journey. [Read More ↗](https://imprs.vercel.app/about)
 
 </p>
 
