@@ -7,7 +7,7 @@ I'm an artist, designer, and developer from India, passionate about crafting dig
 I'm currently focused on:
 
 - 🌐 Enhancing <a href="https://imprs.vercel.app">imprs.vercel.app</a> my site, where I blog, upload and share whatever side projects I've been working on..
-- 📝 Sharing insights and learnings on <a href="https://imprs.vercel.app/blog">my blog ↗</a>.
+- 📝 Sharing insights and learnings on my <a href="https://imprs.vercel.app/blog"> blog ↗</a>.
 - 🚀 Developing new and exciting side <a href="https://imprs.vercel.app/projects">projects ↗</a>.
 
 ## ✨ Fun Facts
@@ -39,11 +39,5 @@ If you have any questions or opportunities for collaboration, don't hesitate to 
 If you like what I do, consider supporting me on [Patreon](https://patreon.com/imprs). Your support helps me keep the lights on and create more awesome content.
 
 [![Patreon Badge](https://img.shields.io/badge/-imprs-blue?style=social&logo=Patreon&link=https://patreon.com/imprs)](https://patreon.com/imprs)
-
-## ❤️ Special Thanks
-
-_“The only way to do great work is to love what you do.” – Steve Jobs_
-
-I want to extend my heartfelt thanks to all the developers and creators whose work and contributions have inspired me on my coding journey. Your dedication and passion for the craft continue to motivate me every day. Thank you for being a guiding light in the world of technology and creativity.
 
 <h4>From <a href="https://github.com/itsprs/itsprs">Pratham Raj's Github Profile README.md</a></h4>
