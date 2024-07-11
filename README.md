@@ -10,21 +10,7 @@ I'm currently focused on:
 - 📝 Sharing insights and learnings on my <a href="https://imprs.vercel.app/blog"> blog ↗</a>.
 - 🚀 Developing new and exciting side <a href="https://imprs.vercel.app/projects">projects ↗</a>.
 
-## ✨ Fun Facts
-
-```
-> Death Note is my favorite anime.
-> I love to customize everything lol.
-> I love using Mac after switching from Linux.
-```
-
-## 📫 Contact
-
 If you have any questions or opportunities for collaboration, don't hesitate to reach out. I'm always open to new projects and creative challenges. [Contact me ↗](https://imprs.vercel.app/contact) to get in touch.
-
-- For a quick response, DM me on [Instagram](https://instagram.com/im.prs7) or [Twitter](https://x.com/im_prs7).
-- Follow me on [LinkedIn](https://www.linkedin.com/in/imprathamraj/) for professional updates.
-- Visit my [website](https://imprs.vercel.app) for blog posts and project updates.
 
 💌 Sign up for my [newsletter](https://imprs.vercel.app#newsletter) to receive updates and insights on development, design, and art.
 
@@ -34,9 +20,7 @@ If you have any questions or opportunities for collaboration, don't hesitate to 
 [![Twitter Badge](https://img.shields.io/badge/-im_prs7-blue?style=social&logo=Twitter&link=https://twitter.com/im_prs7)](https://twitter.com/im_prs7) [![Snapchat Badge](https://img.shields.io/badge/-im.prs7-blue?style=social&logo=Snapchat&link=https://snapchat.com/add/imprs)](https://snapchat.com/add/im.prs7) [![Quora Badge](https://img.shields.io/badge/-PrathamRajSingh4-blue?style=social&logo=Quora&link=https://www.quora.com/profile/Pratham-Raj-Singh-4)](https://www.quora.com/profile/Pratham-Raj-Singh-4)
 [![Dribbble Badge](https://img.shields.io/badge/-imprs-blue?style=social&logo=Dribbble&link=https://dribbble.com/imprs)](https://dribbble.com/imprs) [![Stackoverflow Badge](https://img.shields.io/badge/-imprs-blue?style=social&logo=Stackoverflow&link=https://stackoverflow.com/users/14980970/imprs)](https://stackoverflow.com/users/14980970/imprs)
 
-## 🚀 Support Me
-
-If you like what I do, consider supporting me on [Patreon](https://patreon.com/imprs). Your support helps me keep the lights on and create more awesome content.
+If you like what I do, consider supporting me on [Patreon](https://patreon.com/imprs).
 
 [![Patreon Badge](https://img.shields.io/badge/-imprs-blue?style=social&logo=Patreon&link=https://patreon.com/imprs)](https://patreon.com/imprs)
 
